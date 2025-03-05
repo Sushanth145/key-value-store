@@ -1,0 +1,27 @@
+{
+  "name": "kvs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000e\u0000y\u0000-\u0000v\u0000a\u0000l\u0000u\u0000e\u0000-\u0000s\u0000t\u0000o\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushanth145/key-value-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushanth145/key-value-store/issues"
+  },
+  "homepage": "https://github.com/Sushanth145/key-value-store#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.3",
+    "redis": "^4.7.0"
+  }
+}
